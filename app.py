@@ -34,3 +34,4 @@ if st.button("Generate Response"):
         st.write(response.text)
     else:
         st.warning("Please enter a prompt")
+        
